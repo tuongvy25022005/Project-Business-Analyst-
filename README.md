@@ -1,7 +1,7 @@
 # Project-Business-Analyst-
 # Hệ Thống Quản Lý Bán Hàng Dalat Milk 
 ### Giới thiệu 
-Đồ án phân tích và thiết kế hệ thống quản lý bán hàng cho cửa hàng Dalat Milk nhằm hỗ trợ quản lý bán hàng, kho hàng, hóa đơn, thanh toán và khách hàng trên cùng một hệ thống. 
+Đồ án phân tích quy trình nghiệp vụ bán hàng cho cửa hàng Dalat Milk nhằm hỗ trợ quản lý bán hàng, kho hàng, hóa đơn, thanh toán và khách hàng trên cùng một hệ thống. 
 ### Mục tiêu dự án 
 - Tin học hóa quy trình bán hàng tại Dalat Milk. 
 - Quản lý tập trung dữ liệu bán hàng, kho và khách hàng.
@@ -52,4 +52,3 @@ Kết quả khảo sát cho thấy dữ liệu còn phân tán, quy trình xử 
 - Microsoft Word
 ### Tác giả 
 **Hồ Vũ Tường Vy** 
-Đồ án môn Phân tích thiết kế hệ thống thông tin
