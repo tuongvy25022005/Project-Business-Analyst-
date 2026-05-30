@@ -1,4 +1,4 @@
-<img width="945" height="541" alt="image" src="https://github.com/user-attachments/assets/3f28dd48-1a87-4c66-934c-4fe4495bf36c" /># Project-Business-Analyst-
+# Project-Business-Analyst-
 # Hệ Thống Quản Lý Bán Hàng Dalat Milk 
 ### Giới thiệu 
 Đồ án phân tích quy trình nghiệp vụ bán hàng cho cửa hàng Dalat Milk nhằm hỗ trợ quản lý bán hàng, kho hàng, hóa đơn, thanh toán và khách hàng trên cùng một hệ thống. 
@@ -35,11 +35,15 @@ Kết quả khảo sát cho thấy dữ liệu còn phân tán, quy trình xử 
 ### Phân tích hệ thống 
 - BPMN (AS-IS)
 <img width="945" height="541" alt="image" src="https://github.com/user-attachments/assets/56a5b83c-eba8-43c5-9441-2c6e28543c77" />
+
 - BFD
 <img width="945" height="563" alt="image" src="https://github.com/user-attachments/assets/ec591ec6-fcf8-424d-a79f-13c506ca1b7d" />
+
 - DFD mức 0 và mức 1
 <img width="945" height="494" alt="image" src="https://github.com/user-attachments/assets/864cc487-ff61-4d13-8f05-c7f2beabb1bc" />
+
 <img width="945" height="649" alt="image" src="https://github.com/user-attachments/assets/b637c477-f3ce-48f5-93ee-5bd5e0d0a7b8" />
+
 - Phân tích SWOT
 ### Cơ sở dữ liệu Các bảng dữ liệu chính: 
 - Khách hàng
